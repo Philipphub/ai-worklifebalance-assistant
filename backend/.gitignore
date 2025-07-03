@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# IDE / Editor specific
+.idea/
+.vscode/
+
+# LangGraph
+.langgraph_api/

@@ -1,7 +1,7 @@
 {
     "dockerfile_lines": [],
     "graphs": {
-        "agent": "./app/langgraph_agent/agent.py:agent"
+        "WorkLifeBalanceAgent": "./app/langgraph_agent/agent.py:WorkLifeBalanceAgent"
     },
     "env": ".env",
     "python_version": "3.11",

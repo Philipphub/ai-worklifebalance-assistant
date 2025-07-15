@@ -3,6 +3,7 @@ uvicorn[standard]  # The server that runs your FastAPI app
 pydantic
 pydantic-settings
 langchain
+langchain-openai
 langgraph
 langgraph-cli
 python-dotenv    # For managing environment variables like API keys
